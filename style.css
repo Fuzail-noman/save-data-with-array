@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: orange;
+  }
+  .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .delete-btn:hover {
+    background-color: darkred;
+  }
+.in{
+    background-color: blue !important;
+    color: white !important;
+    width: 400px !important;
+    height: 30px !important;
+}
+
+button{
+    background-color: aqua;
+    width: 150px;
+    align-items: center;
+    height: 30px;
+}
+ul{
+    background-color: red;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
